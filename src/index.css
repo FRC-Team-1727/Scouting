@@ -8,11 +8,11 @@ body {
 }
 
 @font-face {
-  font-family: 'SF Sports Night';
-  src: url('/fonts/SF Sports Night.ttf');
+  font-family: 'Manrope-ExtraBold';
+  src: url('/fonts/Manrope-ExtraBold.ttf');
 }
 
 @font-face {
-  font-family: 'SF Sports Night NS';
-  src: url('/fonts/SF Sports Night NS.ttf');
+  font-family: 'Manrope-Medium';
+  src: url('/fonts/Manrope-Medium.ttf');
 }
